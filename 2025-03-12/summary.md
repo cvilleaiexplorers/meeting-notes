@@ -12,7 +12,7 @@ Key points include:
 
 5. **Logistics and Communication**: Information about how to stay connected through platforms like Slack and Meetup is provided, along with details about future meetings.
 
-6. **Personal Experiences with AI**: Owen Zanel shares his personal experiences with AI, including projects he has worked on, such as creating children's books and using AI for video production.
+6. **Personal Experiences with AI**: Owen Zanal shares his personal experiences with AI, including projects he has worked on, such as creating children's books and using AI for video production.
 
 7. **Discussion on Collaboration**: The conversation shifts to the challenges and dynamics of working in teams on AI projects, emphasizing the importance of planning and communication.
 
